@@ -1,4 +1,5 @@
-# EX-1 Fitting Poisson  distribution
+## EXP NO-1 
+# Fitting Poisson  distribution
 ## DATE: 
 # Aim : 
 
