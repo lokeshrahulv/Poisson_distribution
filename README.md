@@ -1,6 +1,5 @@
-## EXP NO-1 
-# Fitting Poisson  distribution
-## DATE: 
+# EXP NO-2 Fitting Poisson  distribution            
+# DATE: 07/09/24
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
